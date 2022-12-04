@@ -1,0 +1,59 @@
+29
+A set having no element is called
+A.Singleton B.Super C.Overlaping D.Power D 4 0 4
+Plane cutting the cone parallel to the side gives a _________
+A.Hyperbola B.Parabola C.Circle D.Ellipse B 4 0 4
+Find the mean proportion between 5 and 45.
+A.9 B.15 C.25 D.50 B 4 0 4
+What is the rate of discount if a car which cost $4,000 is sold for $3,200 ?
+A.14% B.16% C.18% D.20% D 3 1 4
+0.003 x 0.02 = ?
+A.0.06 B.0.006 C.0.0006 D.0.00006 D 3 0 3
+A particle moves according to the eq x = 2t2. Its velocity at t = 3 is __________
+A.2 B.4 C.8 D.12 C 3 0 3
+Tangent and cotangent have period
+A.0 B.(pie)/2 C.2(pie) D.(pie) B 2 2 4
+If X:Y = 2:3, Y:Z = 4:5. Find X:Y:Z.
+A.2:3:5 B.8:12:15 C.2:8:5 D.2:7:5 B 2 1 3
+The radius of in-circle is called
+A.Circumradius B.e-radius C.Inradius D.none C 2 1 3
+Quadratic eq. is that eq. in which highest degree of variable is
+A.One B.Three C.Two D.Zero C 2 0 2
+What is the value of x in the equation 3x - 15 - 6 = 0 ?
+A.7 B.8 C.9 D.-9 A 2 2 4
+What is the average of the numbers: 0, 0, 4, 10, 5, and 5 ?
+A.2 B.3 C.4 D.5 C 2 0 2
+Which tree has only 2 or lesser childs?
+A.BTree B.BST C.AVL D.All B 2 1 3
+What is 2+4+9?
+A.10 B.16 C.15 D.14 C 2 1 3
+What is the Capital of TURKEY?
+A.Ankara B.Capadocia C.Istanbul D.Izmir C 2 1 3
+Fifth order derivative of x4 is ___________
+A.0 B.24 C.24x D.12x A 1 1 2
+How many kinds of trigonometry are?
+A.1 B.2 C.3 D.4 C 1 0 1
+A function which remain constant in an interval is called _______
+A.Maximum B.Minimum C.Stationary D.Inflexion C 1 0 1
+A subset of A × B is called a ___________
+A.Binary B.range C.Domain D.Digit A 1 3 4
+How much 60% of 50 is greater than 40% of 30?
+A.18 B.13 C.15 D.20 A 1 4 5
+Range of cot θ is
+A.R B.Q C.N D.Z C 1 2 3
+If f(x) is an increasing function in (a, b) if f'(c) __________
+A.=1 B.=0 C.>0 D.<0 C 1 0 1
+A plane cutting the cone parallel to its axis gives a _________
+A.Ellipse B.Parabola C.Circle D.Hyperbola D 1 0 1
+The y-coordinate of a point is also called _______
+A.Ordinate B.Origin C.Abscissa D.Interval A 1 0 1
+How many meters of carpet 63cm will be required to be a floor of a room 14m by 9cm?
+A.200 B.210 C.220 D.185 A 1 2 3
+Radius of the circle concentric with x2 + y2 + 6x - 10y - 2 = 0 and touching x - axis is _______
+A.5 B.6 C.-10 D.2 A 1 2 3
+What is probability of drawing two clubs from a well shuffled pack of 52 cards?
+A.13/51 B.1/17 C.1/26 D.13/17 B 1 0 1
+The conic is ellipse if _________
+A.E<1 B.E>1 C.E=1 D.E=0 A 0 4 4
+who is saad?
+A.tatti B.potty C.insan D.insane 2 0 0 0
